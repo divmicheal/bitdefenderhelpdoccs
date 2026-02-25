@@ -1,4 +1,4 @@
-Bitdefender Account Documentation
+Bitdefender Account Login: Step to Step Guide  
 =================================
 
 Welcome to the official documentation guide for managing your Bitdefender account, login access, troubleshooting issues, and account security settings.
